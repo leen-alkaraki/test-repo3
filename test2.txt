@@ -1,2 +1,1 @@
 this is test2 file
-git revert commit 3
